@@ -1,2 +1,2 @@
 # ChatBotAI
-Chat Bot with RNN 7 TensorFlow
+Chat Bot with RNN & TensorFlow
